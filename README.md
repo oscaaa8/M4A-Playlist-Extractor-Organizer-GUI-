@@ -1,4 +1,4 @@
-🎧 DJ-Ready M4A Playlist Extractor & Genre Organizer (YouTube GUI)
+## 🎧 DJ-Ready M4A Playlist Extractor & Genre Organizer (YouTube GUI)
 
 A powerful and easy-to-use tool built for DJs, music curators, and remix enthusiasts.
 
