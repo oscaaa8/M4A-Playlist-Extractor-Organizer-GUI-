@@ -16,7 +16,8 @@ A simple drag-and-go GUI application that allows you to:
 - Automatically download and convert them to `.m4a`
 - Sort them into labeled folders for easy music organization
 
-![image](https://github.com/user-attachments/assets/b5c84f19-5dca-46e6-ad91-9e5953079e9f)
+![image](https://github.com/user-attachments/assets/2aa4ee65-3d17-4367-bc27-5b7da0884132)
+
 
 ---
 
