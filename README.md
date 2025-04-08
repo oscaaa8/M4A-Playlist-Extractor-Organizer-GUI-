@@ -1,4 +1,5 @@
-![Social Preview](github_social_preview_compressed.png)
+
+![4c32750f-091b-49be-8ea1-efcc5ed2545f](https://github.com/user-attachments/assets/653d94ba-858e-46ce-9b17-7b5ff26952be)
 
 ## 🎧 DJ-Ready M4A Playlist Extractor & Genre Organizer for Youtube (GUI)
 
