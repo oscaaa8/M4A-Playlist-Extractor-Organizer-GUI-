@@ -10,7 +10,7 @@ Organize your sets with ease by:
 
 This GUI app is built for **fast playlist prep, genre sorting**, and **bulk audio download** — no terminal, scripts, or CSV editing required.
 
-## Perfect for creating reference libraries, sourcing rare remixes, or pulling from YouTube DJ sets and edits.
+# Perfect for creating reference libraries, sourcing rare remixes, or pulling from YouTube DJ sets and edits.
 
 A simple drag-and-go GUI application that allows you to:
 - Paste YouTube links by genre via folder name of your playlist columns
