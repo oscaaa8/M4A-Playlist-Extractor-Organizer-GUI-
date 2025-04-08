@@ -1,8 +1,6 @@
 
-![4c32750f-091b-49be-8ea1-efcc5ed2545f](https://github.com/user-attachments/assets/653d94ba-858e-46ce-9b17-7b5ff26952be)
-
 ## 🎧 DJ-Ready M4A Playlist Extractor & Genre Organizer for Youtube (GUI)
-
+![4c32750f-091b-49be-8ea1-efcc5ed2545f](https://github.com/user-attachments/assets/653d94ba-858e-46ce-9b17-7b5ff26952be)
 A powerful and easy-to-use tool built for DJs, music curators, and remix enthusiasts.
 
 Organize your sets with ease by:
